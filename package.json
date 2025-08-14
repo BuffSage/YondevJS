@@ -1,0 +1,13 @@
+{
+  "name": "yondev-site-js",
+  "version": "1.0.0",
+  "description": "Converted YonDev PHP site to Node.js (Express + EJS)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
